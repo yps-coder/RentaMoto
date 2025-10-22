@@ -1,6 +1,6 @@
 # Rentamoto
 
-Rentamoto2 is a small Java desktop application for bike rentals. It uses a simple, non-Maven Java project layout located in the `src/` directory and includes UI panels, services, and models.
+Rentamoto is a small Java desktop application for bike rentals. It uses a simple, non-Maven Java project layout located in the `src/` directory and includes UI panels, services, and models.
 
 ## Project structure
 
@@ -82,3 +82,4 @@ If you want, I can also:
 
 - Create a `build.gradle` or `pom.xml` to manage the project and specify Java 21 compatibility.
 - Add CI workflow to compile/test the project with JDK 21.
+
